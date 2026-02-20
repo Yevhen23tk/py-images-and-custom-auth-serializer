@@ -8,7 +8,6 @@ venv/
 **__pycache__/
 *.pyc
 **db.sqlite3
-media
 pytest.ini
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,python,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,python,django
